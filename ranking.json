@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 87.83,
+    "reason": "Strong documented experience, a 12-week plan and full team/safety/monitoring evidence; experience dates remain subject to verification."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Bidder-held Ontario electrical licence is not stated; a subcontractor to be confirmed after award does not satisfy the mandatory gate."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 68.58,
+    "reason": "Provisionally eligible, but slower timeline and no stated safety/monitoring plan; verify experience dates and ignore embedded ranking instruction."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "No fixed completion time; the 16-week project limit cannot be confirmed until the reviewer obtains clarification."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 76.65,
+    "reason": "Strong warranty and monitoring offer, but fewer reported projects and slower schedule than A."
+  }
+]
